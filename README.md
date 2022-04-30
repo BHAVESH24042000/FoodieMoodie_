@@ -9,11 +9,11 @@ Also User can save a particular recipe for future usage in phone local storage u
 
 FEATURES/LEARNINGS/PRACTICES USED:
 
-1.) CRED operations on Firebase
+1.) CRUD operations on Firebase Firestore.
 
-2.) Use Of Firebase Authentication
+2.) Use Of Firebase Authentication for user authentication
 
-3.) Use of Spoonacular API through Retrofit and GOOGLE MAPS API
+3.) Use of Spoonacular API through Retrofit and GOOGLE MAPS API.
 
 4.) Use Of Room Database for storing recipes and also for Offline Caching of Online Data
 
